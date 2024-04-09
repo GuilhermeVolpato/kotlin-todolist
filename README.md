@@ -1,3 +1,3 @@
-### Integrantes:
-[GuilhermeVolpato](https://github.com/GuilhermeVolpato)<br>
-[GuilhermeMSilveira](https://github.com/GuilhermeMSilveira)<br>
+# Integrantes:
+[Guilherme Chaves Volpato](https://github.com/GuilhermeVolpato)<br>
+[Guilherme Marques Silveira](https://github.com/GuilhermeMSilveira)<br>
